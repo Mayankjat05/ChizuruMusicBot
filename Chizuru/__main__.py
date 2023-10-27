@@ -49,7 +49,7 @@ async def init():
     except:
         pass
     await Chizuru.decorators()
-    LOGGER("DAXXMUSIC").info(
+    LOGGER("Chizuru").info(
         "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗗𝗔𝗫𝗫☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()

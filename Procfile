@@ -1,1 +1,1 @@
-worker: python -m Chizuru
+worker: bash start
